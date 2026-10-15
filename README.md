@@ -1,5 +1,9 @@
 # matter_dcl
 
+[![pub package](https://img.shields.io/pub/v/matter_dcl.svg)](https://pub.dev/packages/matter_dcl)
+
+On pub.dev: [pub.dev/packages/matter_dcl](https://pub.dev/packages/matter_dcl)
+
 Look up Matter vendors and products in the CSA **Distributed Compliance Ledger** (DCL), the public
 registry behind every Matter Vendor ID and certified product. Turn `4107/8580` from a device's
 discovery record into "WiZ P45.E27".
