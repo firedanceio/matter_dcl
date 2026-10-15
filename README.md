@@ -11,11 +11,11 @@ discovery record into "WiZ P45.E27".
 
 ## Install
 
-```yaml
-dependencies:
-  matter_dcl:
-    git: https://github.com/firedanceio/matter_dcl
+```bash
+dart pub add matter_dcl
 ```
+
+or, in a Flutter app, `flutter pub add matter_dcl`.
 
 ## Use
 
