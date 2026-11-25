@@ -55,4 +55,4 @@ Options: `MatterDcl(baseUri: MatterDcl.testnet)` for the test ledger, `timeout:`
 
 ## Licence
 
-Apache-2.0. Made by [Firedance](https://firedance.io).
+Apache-2.0. Made by [Firedance](https://www.getfiredance.com).

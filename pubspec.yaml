@@ -1,7 +1,7 @@
 name: matter_dcl
 description: Look up Matter vendors and products in the CSA Distributed Compliance Ledger (DCL), with caching and a never-throw API.
 version: 0.1.0
-homepage: https://firedance.io
+homepage: https://www.getfiredance.com
 repository: https://github.com/firedanceio/matter_dcl
 issue_tracker: https://github.com/firedanceio/matter_dcl/issues
 topics: [matter, smart-home, iot, csa]
